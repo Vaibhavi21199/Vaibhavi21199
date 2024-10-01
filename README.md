@@ -17,7 +17,7 @@
 ### My Skills:
 - **Languages**: Python, SQL
 - **Tools**: Excel, Tableau, Power BI, Pandas, NumPy
-- **Focus Areas**: Data Cleaning, Visualization, Statistical Analysis
+- **Focus Areas**: Data Modelling, Data Cleaning, Visualization, Statistical Analysis
 
 ### Fun Facts:
 - 📸 I have a passion for photography and love capturing nature and urban landscapes.
